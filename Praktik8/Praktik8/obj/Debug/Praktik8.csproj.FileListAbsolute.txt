@@ -1,0 +1,8 @@
+D:\ИС-22\Praktik8\Praktik8\bin\Debug\Praktik8.exe.config
+D:\ИС-22\Praktik8\Praktik8\bin\Debug\Praktik8.exe
+D:\ИС-22\Praktik8\Praktik8\bin\Debug\Praktik8.pdb
+D:\ИС-22\Praktik8\Praktik8\obj\Debug\Praktik8.csproj.AssemblyReference.cache
+D:\ИС-22\Praktik8\Praktik8\obj\Debug\Praktik8.csproj.SuggestedBindingRedirects.cache
+D:\ИС-22\Praktik8\Praktik8\obj\Debug\Praktik8.csproj.CoreCompileInputs.cache
+D:\ИС-22\Praktik8\Praktik8\obj\Debug\Praktik8.exe
+D:\ИС-22\Praktik8\Praktik8\obj\Debug\Praktik8.pdb

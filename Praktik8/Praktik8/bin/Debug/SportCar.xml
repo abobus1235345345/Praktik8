@@ -1,0 +1,11 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Program_x002B_SportsCar id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/prakt8._2/Praktik8%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<egnState>engineAlive</egnState>
+<Car_x002B__x003C_PetName_x003E_k__BackingField id="ref-3">hjk</Car_x002B__x003C_PetName_x003E_k__BackingField>
+<Car_x002B__x003C_CurrentSpeed_x003E_k__BackingField>130</Car_x002B__x003C_CurrentSpeed_x003E_k__BackingField>
+<Car_x002B__x003C_MaxSpeed_x003E_k__BackingField>120</Car_x002B__x003C_MaxSpeed_x003E_k__BackingField>
+<Car_x002B_egnState>engineAlive</Car_x002B_egnState>
+</a1:Program_x002B_SportsCar>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
